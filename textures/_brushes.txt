@@ -1,0 +1,6 @@
+# brush_category | absolute_path  (* = ativo)
+ wall|c:\Users\User\Documents\Firstpersonattempt\textures\wall.png
+*floor|c:\Users\User\Documents\Firstpersonattempt\textures\floor.png
+*door|c:\Users\User\Documents\Firstpersonattempt\textures\door.png
+*box|c:\Users\User\Documents\Firstpersonattempt\textures\box.png
+*wall|c:\Users\User\Documents\Firstpersonattempt\textures\hellwall.png
